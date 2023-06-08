@@ -20,4 +20,10 @@ STEPS:
 
 ![alt text](https://github.com/KAYounes/AIProject/blob/master/Example_Image.png?raw=true)
 
+**How to run?**
+
+You have to use python environment, which support pygame. If not found, simply use the following command in your terminal. 
+```
+pip install pygame
+```
 Under supervision of **Dr. Ammar Mohammed**, *Professor of Artificial Intelligence, FGSSR, Cairo University*
