@@ -1,4 +1,17 @@
-# Search Algorithms and Graph Building
+# Search Algorithms
+
+**Uninformed search algorithms**
+- [x] BFS- Breadth-first search
+- [x] DFS- Depth-first search
+- [x] UCS - form Cost Search Algorithm - 
+- [x] ITS - 
+- [x] DLS - Iterative Deepening Search
+
+**Informed search algorithms**
+- [x] Greedy
+- [x] A*
+
+STEPS:
 1. Build a graph
 2. Select the start state and final state(s)
 3. Select the search algorithm (Uninfored and Informed)
