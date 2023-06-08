@@ -7,4 +7,4 @@
 
 ![alt text](https://github.com/KAYounes/AIProject/blob/master/Example_Image.png?raw=true)
 
-Under supervision of Dr. Ammar Mohammed, Professor of Artificial Intelligence, FGSSR, Cairo University
+Under supervision of **Dr. Ammar Mohammed**, *Professor of Artificial Intelligence, FGSSR, Cairo University*
