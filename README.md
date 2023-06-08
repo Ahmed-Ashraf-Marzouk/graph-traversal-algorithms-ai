@@ -1,11 +1,11 @@
 # Search Algorithms
 
 **Uninformed search algorithms**
-- [x] BFS- Breadth-first search
-- [x] DFS- Depth-first search
-- [x] UCS - form Cost Search Algorithm - 
-- [x] ITS - 
-- [x] DLS - Iterative Deepening Search
+- [x] BFS - Breadth-first search
+- [x] DFS - Depth-first search
+- [x] UCS - form Cost Search  - 
+- [x] ITS - Iterative-deepening Search 
+- [x] DLS - Depth-Limited Search 
 
 **Informed search algorithms**
 - [x] Greedy
